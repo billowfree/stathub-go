@@ -1,7 +1,7 @@
 #!/bin/bash
 
 VERSION="0.102.3"
-STATHUB_URL="https://github.com/likexian/stathub-go/releases/download/v${VERSION}/stathub.$(uname -m).tar.gz"
+STATHUB_URL="https://github.com/likexian/stathub-go/releases/download/v0.102.3/stathub.x86_64.tar.gz"
 
 BASEDIR="/usr/local/stathub"
 
